@@ -125,3 +125,7 @@ abalı
 
 opsiyonel olarak harflerden şapka kaldırma ve küçük harfe çevirme (""" kısmını kaldırıp yorum satırı olmaktan çıkartarak) aktif edilebilir:
 ![image](https://github.com/user-attachments/assets/52702da1-1127-4ae5-a578-dd289fa497a5)
+<br>
+<br>
+Bu çalışmanın kapsamı dışında olmakla birlikte; çekilen sözcüklere ait anlamlar, ileri düzey web kazıma yöntemleriyle kısa süre içerisinde çekilerek (isim, sıfat, fiil gibi tür bilgisiyle birlikte) tablo olarak kaydedilebilmektedir:
+![image](https://github.com/user-attachments/assets/31d3e1ad-582e-44c8-a670-a464291be5e4)
