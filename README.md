@@ -1,7 +1,9 @@
 Bu çalışma, TDK sözlükte yer alan güncel kelimeleri çekmek amacıyla hazırlanmış python kodlarını içerir.
 kelimeler.py ile sözlükte yer alan tüm kelimeler çekilerek kelimeler.txt dosyasına yazılır:
 <img width="457" alt="image" src="https://github.com/user-attachments/assets/86677a76-a66e-436a-9240-86d072383f14">
+<br>
 Örnek içerik:
+<br>
 ... bir hâl almak (hâle girmek)
 ... canlısı (olmak)
 ... damgasını vurmak
